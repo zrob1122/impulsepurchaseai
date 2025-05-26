@@ -1,0 +1,1202 @@
+[
+  {
+    "price": 576.63,
+    "category": "tech",
+    "priceSensitivity": "low",
+    "lovesCategory": true,
+    "tagCount": 2,
+    "regretScore": 72.98
+  },
+  {
+    "price": 392.09,
+    "category": "tech",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 2,
+    "regretScore": 33.03
+  },
+  {
+    "price": 376.51,
+    "category": "tech",
+    "priceSensitivity": "low",
+    "lovesCategory": true,
+    "tagCount": 4,
+    "regretScore": 10.22
+  },
+  {
+    "price": 305.95,
+    "category": "tech",
+    "priceSensitivity": "low",
+    "lovesCategory": true,
+    "tagCount": 3,
+    "regretScore": 0
+  },
+  {
+    "price": 191.05,
+    "category": "tech",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 4,
+    "regretScore": 13.72
+  },
+  {
+    "price": 548.21,
+    "category": "tech",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 0,
+    "regretScore": 70.33
+  },
+  {
+    "price": 250.68,
+    "category": "tech",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 0,
+    "regretScore": 0.0
+  },
+  {
+    "price": 437.59,
+    "category": "tech",
+    "priceSensitivity": "medium",
+    "lovesCategory": true,
+    "tagCount": 0,
+    "regretScore": 28.41
+  },
+  {
+    "price": 457.93,
+    "category": "tech",
+    "priceSensitivity": "high",
+    "lovesCategory": true,
+    "tagCount": 2,
+    "regretScore": 43.77
+  },
+  {
+    "price": 194.48,
+    "category": "tech",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 5,
+    "regretScore": 21.66
+  },
+  {
+    "price": 473.28,
+    "category": "tech",
+    "priceSensitivity": "medium",
+    "lovesCategory": true,
+    "tagCount": 2,
+    "regretScore": 43.08
+  },
+  {
+    "price": 252.58,
+    "category": "tech",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 2,
+    "regretScore": 5.83
+  },
+  {
+    "price": 585.7,
+    "category": "tech",
+    "priceSensitivity": "low",
+    "lovesCategory": true,
+    "tagCount": 4,
+    "regretScore": 70.79
+  },
+  {
+    "price": 502.07,
+    "category": "tech",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 2,
+    "regretScore": 75.48
+  },
+  {
+    "price": 192.18,
+    "category": "tech",
+    "priceSensitivity": "low",
+    "lovesCategory": true,
+    "tagCount": 1,
+    "regretScore": 0
+  },
+  {
+    "price": 220.23,
+    "category": "tech",
+    "priceSensitivity": "high",
+    "lovesCategory": true,
+    "tagCount": 3,
+    "regretScore": 0
+  },
+  {
+    "price": 510.61,
+    "category": "tech",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 1,
+    "regretScore": 61.69
+  },
+  {
+    "price": 484.27,
+    "category": "tech",
+    "priceSensitivity": "medium",
+    "lovesCategory": true,
+    "tagCount": 0,
+    "regretScore": 36.82
+  },
+  {
+    "price": 279.12,
+    "category": "tech",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 1,
+    "regretScore": 2.19
+  },
+  {
+    "price": 567.79,
+    "category": "tech",
+    "priceSensitivity": "high",
+    "lovesCategory": true,
+    "tagCount": 0,
+    "regretScore": 82.63
+  },
+  {
+    "price": 325.5,
+    "category": "tech",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 2,
+    "regretScore": 14.54
+  },
+  {
+    "price": 228.48,
+    "category": "tech",
+    "priceSensitivity": "low",
+    "lovesCategory": true,
+    "tagCount": 1,
+    "regretScore": 0
+  },
+  {
+    "price": 224.58,
+    "category": "tech",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 2,
+    "regretScore": 9.04
+  },
+  {
+    "price": 227.95,
+    "category": "tech",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 2,
+    "regretScore": 6.62
+  },
+  {
+    "price": 192.54,
+    "category": "tech",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 5,
+    "regretScore": 13.54
+  },
+  {
+    "price": 157.38,
+    "category": "fitness",
+    "priceSensitivity": "medium",
+    "lovesCategory": true,
+    "tagCount": 4,
+    "regretScore": 1.9
+  },
+  {
+    "price": 187.2,
+    "category": "fitness",
+    "priceSensitivity": "medium",
+    "lovesCategory": true,
+    "tagCount": 4,
+    "regretScore": 23.63
+  },
+  {
+    "price": 171.69,
+    "category": "fitness",
+    "priceSensitivity": "medium",
+    "lovesCategory": true,
+    "tagCount": 0,
+    "regretScore": 2.24
+  },
+  {
+    "price": 289.04,
+    "category": "fitness",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 0,
+    "regretScore": 92.69
+  },
+  {
+    "price": 90.51,
+    "category": "fitness",
+    "priceSensitivity": "high",
+    "lovesCategory": true,
+    "tagCount": 3,
+    "regretScore": 0
+  },
+  {
+    "price": 263.91,
+    "category": "fitness",
+    "priceSensitivity": "medium",
+    "lovesCategory": true,
+    "tagCount": 4,
+    "regretScore": 71.12
+  },
+  {
+    "price": 135.4,
+    "category": "fitness",
+    "priceSensitivity": "low",
+    "lovesCategory": true,
+    "tagCount": 2,
+    "regretScore": 0
+  },
+  {
+    "price": 244.51,
+    "category": "fitness",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 5,
+    "regretScore": 80.13
+  },
+  {
+    "price": 267.05,
+    "category": "fitness",
+    "priceSensitivity": "high",
+    "lovesCategory": true,
+    "tagCount": 4,
+    "regretScore": 88.58
+  },
+  {
+    "price": 208.59,
+    "category": "fitness",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 0,
+    "regretScore": 39.06
+  },
+  {
+    "price": 272.12,
+    "category": "fitness",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 2,
+    "regretScore": 100
+  },
+  {
+    "price": 126.62,
+    "category": "fitness",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 3,
+    "regretScore": 12.03
+  },
+  {
+    "price": 201.21,
+    "category": "fitness",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 2,
+    "regretScore": 43.26
+  },
+  {
+    "price": 211.6,
+    "category": "fitness",
+    "priceSensitivity": "low",
+    "lovesCategory": true,
+    "tagCount": 2,
+    "regretScore": 21.38
+  },
+  {
+    "price": 117.45,
+    "category": "fitness",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 2,
+    "regretScore": 5.22
+  },
+  {
+    "price": 257.06,
+    "category": "fitness",
+    "priceSensitivity": "medium",
+    "lovesCategory": true,
+    "tagCount": 1,
+    "regretScore": 62.23
+  },
+  {
+    "price": 272.23,
+    "category": "fitness",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 3,
+    "regretScore": 91.76
+  },
+  {
+    "price": 162.91,
+    "category": "fitness",
+    "priceSensitivity": "low",
+    "lovesCategory": true,
+    "tagCount": 3,
+    "regretScore": 0.92
+  },
+  {
+    "price": 258.96,
+    "category": "fitness",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 2,
+    "regretScore": 92.4
+  },
+  {
+    "price": 221.75,
+    "category": "fitness",
+    "priceSensitivity": "medium",
+    "lovesCategory": true,
+    "tagCount": 1,
+    "regretScore": 33.97
+  },
+  {
+    "price": 144.9,
+    "category": "fitness",
+    "priceSensitivity": "high",
+    "lovesCategory": true,
+    "tagCount": 1,
+    "regretScore": 0
+  },
+  {
+    "price": 270.4,
+    "category": "fitness",
+    "priceSensitivity": "medium",
+    "lovesCategory": true,
+    "tagCount": 2,
+    "regretScore": 66.27
+  },
+  {
+    "price": 242.4,
+    "category": "fitness",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 5,
+    "regretScore": 65.52
+  },
+  {
+    "price": 218.48,
+    "category": "fitness",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 5,
+    "regretScore": 66.13
+  },
+  {
+    "price": 96.33,
+    "category": "fitness",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 4,
+    "regretScore": 16.63
+  },
+  {
+    "price": 83.35,
+    "category": "clothing",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 4,
+    "regretScore": 25.45
+  },
+  {
+    "price": 74.09,
+    "category": "clothing",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 3,
+    "regretScore": 9.72
+  },
+  {
+    "price": 94.69,
+    "category": "clothing",
+    "priceSensitivity": "low",
+    "lovesCategory": true,
+    "tagCount": 0,
+    "regretScore": 7.46
+  },
+  {
+    "price": 113.09,
+    "category": "clothing",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 4,
+    "regretScore": 77.56
+  },
+  {
+    "price": 101.23,
+    "category": "clothing",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 4,
+    "regretScore": 53.93
+  },
+  {
+    "price": 50.86,
+    "category": "clothing",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 4,
+    "regretScore": 19.25
+  },
+  {
+    "price": 50.65,
+    "category": "clothing",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 0,
+    "regretScore": 0.0
+  },
+  {
+    "price": 126.82,
+    "category": "clothing",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 2,
+    "regretScore": 67.47
+  },
+  {
+    "price": 72.52,
+    "category": "clothing",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 2,
+    "regretScore": 8.48
+  },
+  {
+    "price": 126.52,
+    "category": "clothing",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 3,
+    "regretScore": 86.46
+  },
+  {
+    "price": 45.51,
+    "category": "clothing",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 3,
+    "regretScore": 14.48
+  },
+  {
+    "price": 104.14,
+    "category": "clothing",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 4,
+    "regretScore": 46.62
+  },
+  {
+    "price": 136.33,
+    "category": "clothing",
+    "priceSensitivity": "high",
+    "lovesCategory": true,
+    "tagCount": 1,
+    "regretScore": 78.11
+  },
+  {
+    "price": 65.72,
+    "category": "clothing",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 1,
+    "regretScore": 4.69
+  },
+  {
+    "price": 142.02,
+    "category": "clothing",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 2,
+    "regretScore": 100
+  },
+  {
+    "price": 115.2,
+    "category": "clothing",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 4,
+    "regretScore": 67.95
+  },
+  {
+    "price": 139.75,
+    "category": "clothing",
+    "priceSensitivity": "high",
+    "lovesCategory": true,
+    "tagCount": 2,
+    "regretScore": 95.84
+  },
+  {
+    "price": 74.72,
+    "category": "clothing",
+    "priceSensitivity": "medium",
+    "lovesCategory": true,
+    "tagCount": 4,
+    "regretScore": 0
+  },
+  {
+    "price": 141.88,
+    "category": "clothing",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 3,
+    "regretScore": 85.16
+  },
+  {
+    "price": 51.36,
+    "category": "clothing",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 4,
+    "regretScore": 9.56
+  },
+  {
+    "price": 146.18,
+    "category": "clothing",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 2,
+    "regretScore": 99.83
+  },
+  {
+    "price": 48.41,
+    "category": "clothing",
+    "priceSensitivity": "medium",
+    "lovesCategory": true,
+    "tagCount": 4,
+    "regretScore": 0
+  },
+  {
+    "price": 72.43,
+    "category": "clothing",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 2,
+    "regretScore": 5.75
+  },
+  {
+    "price": 148.48,
+    "category": "clothing",
+    "priceSensitivity": "high",
+    "lovesCategory": true,
+    "tagCount": 2,
+    "regretScore": 100
+  },
+  {
+    "price": 113.08,
+    "category": "clothing",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 0,
+    "regretScore": 43.16
+  },
+  {
+    "price": 65.5,
+    "category": "beauty",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 0,
+    "regretScore": 35.65
+  },
+  {
+    "price": 44.28,
+    "category": "beauty",
+    "priceSensitivity": "medium",
+    "lovesCategory": true,
+    "tagCount": 4,
+    "regretScore": 1.79
+  },
+  {
+    "price": 71.3,
+    "category": "beauty",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 1,
+    "regretScore": 50.99
+  },
+  {
+    "price": 88.78,
+    "category": "beauty",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 5,
+    "regretScore": 85.86
+  },
+  {
+    "price": 49.72,
+    "category": "beauty",
+    "priceSensitivity": "high",
+    "lovesCategory": true,
+    "tagCount": 1,
+    "regretScore": 0
+  },
+  {
+    "price": 76.03,
+    "category": "beauty",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 0,
+    "regretScore": 44.25
+  },
+  {
+    "price": 63.41,
+    "category": "beauty",
+    "priceSensitivity": "high",
+    "lovesCategory": true,
+    "tagCount": 2,
+    "regretScore": 16.18
+  },
+  {
+    "price": 45.04,
+    "category": "beauty",
+    "priceSensitivity": "medium",
+    "lovesCategory": true,
+    "tagCount": 2,
+    "regretScore": 0
+  },
+  {
+    "price": 79.87,
+    "category": "beauty",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 1,
+    "regretScore": 64.1
+  },
+  {
+    "price": 35.19,
+    "category": "beauty",
+    "priceSensitivity": "low",
+    "lovesCategory": true,
+    "tagCount": 3,
+    "regretScore": 0
+  },
+  {
+    "price": 39.64,
+    "category": "beauty",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 3,
+    "regretScore": 12.2
+  },
+  {
+    "price": 36.03,
+    "category": "beauty",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 5,
+    "regretScore": 23.07
+  },
+  {
+    "price": 75.66,
+    "category": "beauty",
+    "priceSensitivity": "medium",
+    "lovesCategory": true,
+    "tagCount": 1,
+    "regretScore": 30.79
+  },
+  {
+    "price": 83.34,
+    "category": "beauty",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 0,
+    "regretScore": 66.68
+  },
+  {
+    "price": 61.7,
+    "category": "beauty",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 4,
+    "regretScore": 36.03
+  },
+  {
+    "price": 60.86,
+    "category": "beauty",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 3,
+    "regretScore": 30.9
+  },
+  {
+    "price": 38.36,
+    "category": "beauty",
+    "priceSensitivity": "medium",
+    "lovesCategory": true,
+    "tagCount": 1,
+    "regretScore": 0
+  },
+  {
+    "price": 44.81,
+    "category": "beauty",
+    "priceSensitivity": "low",
+    "lovesCategory": true,
+    "tagCount": 5,
+    "regretScore": 1.59
+  },
+  {
+    "price": 76.31,
+    "category": "beauty",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 0,
+    "regretScore": 44.73
+  },
+  {
+    "price": 60.0,
+    "category": "beauty",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 4,
+    "regretScore": 33.25
+  },
+  {
+    "price": 94.26,
+    "category": "beauty",
+    "priceSensitivity": "low",
+    "lovesCategory": true,
+    "tagCount": 2,
+    "regretScore": 55.08
+  },
+  {
+    "price": 64.53,
+    "category": "beauty",
+    "priceSensitivity": "low",
+    "lovesCategory": true,
+    "tagCount": 2,
+    "regretScore": 15.79
+  },
+  {
+    "price": 51.83,
+    "category": "beauty",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 4,
+    "regretScore": 21.31
+  },
+  {
+    "price": 83.47,
+    "category": "beauty",
+    "priceSensitivity": "high",
+    "lovesCategory": true,
+    "tagCount": 0,
+    "regretScore": 64.87
+  },
+  {
+    "price": 46.33,
+    "category": "beauty",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 1,
+    "regretScore": 3.52
+  },
+  {
+    "price": 19.45,
+    "category": "food",
+    "priceSensitivity": "high",
+    "lovesCategory": true,
+    "tagCount": 1,
+    "regretScore": 0
+  },
+  {
+    "price": 37.87,
+    "category": "food",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 1,
+    "regretScore": 25.15
+  },
+  {
+    "price": 42.33,
+    "category": "food",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 0,
+    "regretScore": 47.26
+  },
+  {
+    "price": 57.01,
+    "category": "food",
+    "priceSensitivity": "high",
+    "lovesCategory": true,
+    "tagCount": 2,
+    "regretScore": 98.17
+  },
+  {
+    "price": 33.98,
+    "category": "food",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 4,
+    "regretScore": 22.51
+  },
+  {
+    "price": 46.43,
+    "category": "food",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 1,
+    "regretScore": 57.32
+  },
+  {
+    "price": 21.59,
+    "category": "food",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 4,
+    "regretScore": 16.88
+  },
+  {
+    "price": 57.71,
+    "category": "food",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 4,
+    "regretScore": 91.46
+  },
+  {
+    "price": 48.03,
+    "category": "food",
+    "priceSensitivity": "low",
+    "lovesCategory": true,
+    "tagCount": 0,
+    "regretScore": 28.49
+  },
+  {
+    "price": 53.67,
+    "category": "food",
+    "priceSensitivity": "low",
+    "lovesCategory": true,
+    "tagCount": 4,
+    "regretScore": 55.39
+  },
+  {
+    "price": 38.06,
+    "category": "food",
+    "priceSensitivity": "low",
+    "lovesCategory": true,
+    "tagCount": 4,
+    "regretScore": 18.59
+  },
+  {
+    "price": 49.2,
+    "category": "food",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 4,
+    "regretScore": 79.61
+  },
+  {
+    "price": 28.37,
+    "category": "food",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 3,
+    "regretScore": 13.07
+  },
+  {
+    "price": 23.63,
+    "category": "food",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 0,
+    "regretScore": 0.0
+  },
+  {
+    "price": 52.27,
+    "category": "food",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 2,
+    "regretScore": 68.34
+  },
+  {
+    "price": 43.01,
+    "category": "food",
+    "priceSensitivity": "low",
+    "lovesCategory": true,
+    "tagCount": 4,
+    "regretScore": 43.04
+  },
+  {
+    "price": 23.02,
+    "category": "food",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 1,
+    "regretScore": 2.77
+  },
+  {
+    "price": 18.23,
+    "category": "food",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 2,
+    "regretScore": 6.88
+  },
+  {
+    "price": 26.75,
+    "category": "food",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 2,
+    "regretScore": 5.47
+  },
+  {
+    "price": 25.86,
+    "category": "food",
+    "priceSensitivity": "medium",
+    "lovesCategory": true,
+    "tagCount": 5,
+    "regretScore": 0
+  },
+  {
+    "price": 19.07,
+    "category": "food",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 2,
+    "regretScore": 9.36
+  },
+  {
+    "price": 18.17,
+    "category": "food",
+    "priceSensitivity": "high",
+    "lovesCategory": true,
+    "tagCount": 4,
+    "regretScore": 0
+  },
+  {
+    "price": 22.91,
+    "category": "food",
+    "priceSensitivity": "medium",
+    "lovesCategory": true,
+    "tagCount": 5,
+    "regretScore": 0.07
+  },
+  {
+    "price": 23.57,
+    "category": "food",
+    "priceSensitivity": "low",
+    "lovesCategory": true,
+    "tagCount": 3,
+    "regretScore": 0
+  },
+  {
+    "price": 18.48,
+    "category": "food",
+    "priceSensitivity": "low",
+    "lovesCategory": true,
+    "tagCount": 1,
+    "regretScore": 0
+  },
+  {
+    "price": 77.79,
+    "category": "essentials",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 4,
+    "regretScore": 100
+  },
+  {
+    "price": 40.57,
+    "category": "essentials",
+    "priceSensitivity": "medium",
+    "lovesCategory": true,
+    "tagCount": 0,
+    "regretScore": 0
+  },
+  {
+    "price": 63.87,
+    "category": "essentials",
+    "priceSensitivity": "low",
+    "lovesCategory": true,
+    "tagCount": 2,
+    "regretScore": 38.67
+  },
+  {
+    "price": 32.26,
+    "category": "essentials",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 2,
+    "regretScore": 6.51
+  },
+  {
+    "price": 38.06,
+    "category": "essentials",
+    "priceSensitivity": "medium",
+    "lovesCategory": true,
+    "tagCount": 1,
+    "regretScore": 0
+  },
+  {
+    "price": 28.03,
+    "category": "essentials",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 2,
+    "regretScore": 5.27
+  },
+  {
+    "price": 49.43,
+    "category": "essentials",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 5,
+    "regretScore": 47.98
+  },
+  {
+    "price": 48.83,
+    "category": "essentials",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 0,
+    "regretScore": 18.76
+  },
+  {
+    "price": 60.41,
+    "category": "essentials",
+    "priceSensitivity": "medium",
+    "lovesCategory": true,
+    "tagCount": 0,
+    "regretScore": 34.82
+  },
+  {
+    "price": 77.5,
+    "category": "essentials",
+    "priceSensitivity": "medium",
+    "lovesCategory": true,
+    "tagCount": 2,
+    "regretScore": 80.12
+  },
+  {
+    "price": 79.6,
+    "category": "essentials",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 4,
+    "regretScore": 100
+  },
+  {
+    "price": 55.06,
+    "category": "essentials",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 0,
+    "regretScore": 32.0
+  },
+  {
+    "price": 25.99,
+    "category": "essentials",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 4,
+    "regretScore": 9.91
+  },
+  {
+    "price": 56.54,
+    "category": "essentials",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 1,
+    "regretScore": 51.62
+  },
+  {
+    "price": 75.61,
+    "category": "essentials",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 4,
+    "regretScore": 100
+  },
+  {
+    "price": 44.84,
+    "category": "essentials",
+    "priceSensitivity": "medium",
+    "lovesCategory": false,
+    "tagCount": 0,
+    "regretScore": 12.1
+  },
+  {
+    "price": 38.65,
+    "category": "essentials",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 3,
+    "regretScore": 6.45
+  },
+  {
+    "price": 40.82,
+    "category": "essentials",
+    "priceSensitivity": "high",
+    "lovesCategory": false,
+    "tagCount": 4,
+    "regretScore": 17.69
+  },
+  {
+    "price": 64.72,
+    "category": "essentials",
+    "priceSensitivity": "high",
+    "lovesCategory": true,
+    "tagCount": 3,
+    "regretScore": 54.84
+  },
+  {
+    "price": 45.03,
+    "category": "essentials",
+    "priceSensitivity": "high",
+    "lovesCategory": true,
+    "tagCount": 2,
+    "regretScore": 3.81
+  },
+  {
+    "price": 52.6,
+    "category": "essentials",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 1,
+    "regretScore": 31.71
+  },
+  {
+    "price": 41.18,
+    "category": "essentials",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 2,
+    "regretScore": 10.43
+  },
+  {
+    "price": 45.35,
+    "category": "essentials",
+    "priceSensitivity": "low",
+    "lovesCategory": true,
+    "tagCount": 4,
+    "regretScore": 0.78
+  },
+  {
+    "price": 35.1,
+    "category": "essentials",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 5,
+    "regretScore": 19.53
+  },
+  {
+    "price": 65.78,
+    "category": "essentials",
+    "priceSensitivity": "low",
+    "lovesCategory": false,
+    "tagCount": 3,
+    "regretScore": 67.3
+  }
+]
